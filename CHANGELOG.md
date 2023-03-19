@@ -2,7 +2,39 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/ovos-personal-backend/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-personal-backend/compare/V0.1.6a3...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-personal-backend/compare/V0.1.6a7...HEAD)
+
+**Closed issues:**
+
+- Personal-backend manager [\#48](https://github.com/OpenVoiceOS/ovos-personal-backend/issues/48)
+
+**Merged pull requests:**
+
+- add backend manager to docker composition [\#49](https://github.com/OpenVoiceOS/ovos-personal-backend/pull/49) ([emphasize](https://github.com/emphasize))
+
+## [V0.1.6a7](https://github.com/OpenVoiceOS/ovos-personal-backend/tree/V0.1.6a7) (2023-02-15)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-personal-backend/compare/V0.1.6a6...V0.1.6a7)
+
+## [V0.1.6a6](https://github.com/OpenVoiceOS/ovos-personal-backend/tree/V0.1.6a6) (2022-12-05)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-personal-backend/compare/V0.1.6a5...V0.1.6a6)
+
+**Merged pull requests:**
+
+- port shared oauth db utils [\#46](https://github.com/OpenVoiceOS/ovos-personal-backend/pull/46) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.1.6a5](https://github.com/OpenVoiceOS/ovos-personal-backend/tree/V0.1.6a5) (2022-11-14)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-personal-backend/compare/V0.1.6a4...V0.1.6a5)
+
+**Merged pull requests:**
+
+- Bug/default ww [\#45](https://github.com/OpenVoiceOS/ovos-personal-backend/pull/45) ([builderjer](https://github.com/builderjer))
+
+## [V0.1.6a4](https://github.com/OpenVoiceOS/ovos-personal-backend/tree/V0.1.6a4) (2022-11-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-personal-backend/compare/V0.1.6a3...V0.1.6a4)
 
 **Merged pull requests:**
 
